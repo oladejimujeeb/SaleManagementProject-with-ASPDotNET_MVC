@@ -1,0 +1,18 @@
+@model WebApplicationSalesMS.DTOs.CategoryDto.CategoryResponseModel
+<div>
+    <form asp-action="Update">
+        <div>
+            <label>Name</label>
+            <input type="text" name="Name" value="@Model.Data.Name">
+        </div>
+        <div>
+            <label>Description</label>
+            <input type="text" name="Description" value="@Model.Data.Description" required>
+        </div>
+        
+        <div>
+            <input type="submit"  value="Add" class="btn btn-primary" required>
+        </div>
+        
+    </form>
+</div>

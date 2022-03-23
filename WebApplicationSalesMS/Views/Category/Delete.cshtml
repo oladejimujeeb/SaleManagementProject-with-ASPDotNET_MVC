@@ -1,0 +1,15 @@
+@model WebApplicationSalesMS.DTOs.CategoryDto.CategoryResponseModel
+
+@{
+    ViewBag.Title = "Delete Category";
+    Layout = "_Layout";
+}
+<div>
+    <h2 style="color: red">Are you sure you want to delete the selected category?</h2>
+</div>
+<div>
+    <a asp-action="Delete" class="btn btn-danger" >Yes</a>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-info">No</a>
+</div>

@@ -1,0 +1,31 @@
+@model System.Collections.Generic.IEnumerable<WebApplicationSalesMS.DTOs.ItemDto.ItemDto>
+<div>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Item Name</th>
+            <th>Item Description</th>
+            <th>Item Price</th>
+            <th>Item Image</th>
+            <th>Update Item</th>
+            <th>Delete Item</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>@item.Name</th>
+                <th>@item.Description</th>
+                <th>@item.Price</th>
+                <th><img class="card-img" style="width: 100px; height:100px;" src="~/myImages/@item.Image"></th>
+                <th><a asp-action="" asp-route-id="@item.Id" class="btn btn-info">Update</a></th>
+                <th><a asp-action="" asp-route-id="@item.Id" class="btn btn-info">Delete</a></th>
+            </tr>
+        }
+        </tbody>
+    </table>
+    <div>
+        <a asp-controller="Item" asp-action="CreateItem" class="btn btn-secondary">Add Item</a>
+    </div>
+</div>

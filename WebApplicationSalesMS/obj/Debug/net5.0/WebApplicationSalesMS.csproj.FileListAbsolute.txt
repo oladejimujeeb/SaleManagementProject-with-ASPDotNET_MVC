@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\WebApplicationSalesMS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\WebApplicationSalesMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\WebApplicationSalesMS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\WebApplicationSalesMS.AssemblyInfo.cs
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\WebApplicationSalesMS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\WebApplicationSalesMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\WebApplicationSalesMS.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\WebApplicationSalesMS.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\WebApplicationSalesMS.dll
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\ref\WebApplicationSalesMS.dll
+C:\Users\User\Desktop\code learners hub\WebApplicationSalesMS\WebApplicationSalesMS\obj\Debug\net5.0\WebApplicationSalesMS.pdb
